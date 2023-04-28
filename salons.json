@@ -1,0 +1,33 @@
+{
+    "salons": [
+      {
+        "nom": "Salon Caratt",
+        "adresse": "1 rue du salon",
+        "ville": "Pau",
+        "telephone": "01 23 45 67 89",
+        "image": "img/salon_1.jpg"
+      },
+      {
+        "nom": "Salon 4Saisons",
+        "adresse": "2 rue du salon",
+        "ville": "Lescar",
+        "telephone": "04 78 90 12 34",
+        "image": "img/salon_2.jpg"
+      },
+      {
+        "nom": "Salon Archer",
+        "adresse": "3 rue du salon",
+        "ville": "Jurançon",
+        "telephone": "06 12 34 56 78",
+        "image": "img/salon_3.jpg"
+      },
+      {
+        "nom": "Salon A-Hamid",
+        "adresse": "4 rue du salon",
+        "ville": "Pau",
+        "telephone": "06 12 34 56 78",
+        "image": "img/salon_4.jpg"
+      }
+    ]
+  }
+  
